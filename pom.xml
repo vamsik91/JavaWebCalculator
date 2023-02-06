@@ -30,7 +30,7 @@
   <repository>
     <id>releases</id>
     <!-- <url>http://3.137.216.8081:8081/nexus/content/repositories/releases</url> -->    
-   
+   <url>http://3.137.216.136:8081/nexus/content/repositories/releases</url>
   </repository>
 </distributionManagement>
 </project>
